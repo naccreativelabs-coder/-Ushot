@@ -1,7 +1,6 @@
         {
           "versionCode": 4,
-          "versionName": "4.1",
-          "apkUrl": "https://github.com/naccreativelabs-coder/-Ushot/releases/download/V4.1.0/app-release.apk",
-          "releaseNotes": "Stable version"
+          "versionName": "4.2",
+          "apkUrl": "https://github.com/naccreativelabs-coder/-Ushot/releases/download/V4.2/app-release.apk",
+          "releaseNotes": "Overview Version 4.2 introduces a more robust and modern architecture, leveraging the latest Android technologies to provide a high-performance face capture."
         }
-        
